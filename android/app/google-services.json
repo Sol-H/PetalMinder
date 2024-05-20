@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "356571080419",
+    "firebase_url": "https://sol-fyp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sol-fyp",
+    "storage_bucket": "sol-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356571080419:android:b36ff050362312e3bbc7d6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356571080419-abg11t0pf2ek5mm5asl710fsior2554v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "8983a4815cf7c6a5222a574042ed283afd499cc1"
+          }
+        },
+        {
+          "client_id": "356571080419-kmvrk2uk66i6qk4o01fvdga6d4b5hbft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "INSERT-API-KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356571080419-kmvrk2uk66i6qk4o01fvdga6d4b5hbft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356571080419-1fq22eo6rqrtvte9o7hkpfjhbdquuecc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356571080419:android:ed7d4c986a32129abbc7d6",
+        "android_client_info": {
+          "package_name": "com.shollingsworth.PetalMinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356571080419-6hqv6i1b8uisvnb6u2kqu9gtfj9a4srk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shollingsworth.PetalMinder",
+            "certificate_hash": "8983a4815cf7c6a5222a574042ed283afd499cc1"
+          }
+        },
+        {
+          "client_id": "356571080419-kmvrk2uk66i6qk4o01fvdga6d4b5hbft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "INSERT-API-KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356571080419-kmvrk2uk66i6qk4o01fvdga6d4b5hbft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356571080419-1fq22eo6rqrtvte9o7hkpfjhbdquuecc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
